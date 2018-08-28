@@ -1,0 +1,16 @@
+{
+  "name": "test-wait",
+  "version": "1.1.0",
+  "description": "A simple library to help to test assynchronous conditions",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Thiago da Rosa de Bustamante",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thiagobustamante/test-wait"
+  },
+  "bugs": {
+    "url": "https://github.com/thiagobustamante/test-wait/issues"
+  }
+}
