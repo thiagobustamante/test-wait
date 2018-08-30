@@ -23,7 +23,10 @@ async function myFunction() {
 
 ### wait until
 
-The ```waitUntil``` function receive on function to test a condition and, optionaly, a timeout and interval amounts.
+The ```waitUntil``` function receive:
+  - condition: a function to test a condition
+  - timeout (optional): The maximun amount of time (in miliseconds) to wait for condition be true
+  - interval (optional): The interval (in miliseconds) between checks of condition
 
 ```javascript
 async function myFunction() {
